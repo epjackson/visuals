@@ -1,0 +1,9 @@
+geopandas
+ipykernel
+matplotlib
+nbformat
+pandas
+plotly
+pre-commit
+pydeck
+scikit-learn
